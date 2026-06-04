@@ -1,0 +1,9 @@
+Lage en enkel preview for en frisbeegolf shop som launcher Q3 2026.
+Mappestruktur:
+index.html
+about.html
+contact.html
+images/
+ -bilde
+ -bilde2
+ -bilde3
